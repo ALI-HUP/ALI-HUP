@@ -7,8 +7,7 @@ I’m a passionate **Front-end Developer** who loves building high-performance w
 ### 🚀 What I Do & What Excites Me
 * **Frontend Engineering:** I specialize in building fast, scalable user interfaces using the React and Next.js ecosystems[cite: 2]. 
 * **AI-Assisted Development:** I am highly passionate about using AI tools to supercharge my development workflow, optimize build speeds, and write smarter code[cite: 2].
-* **Automation & Workflows:** Big fan of leveraging automation tools (like **n8n**) to connect services, build automated pipelines, and speed up daily tech tasks.
-* **Tech Enthusiast:** I consider myself a Web3 explorer and an edge-tech enthusiast, always keeping an eye on the latest tech trends and frameworks[cite: 2].
+* **Tech Enthusiast:** I consider myself a Web3 explorer and an edge-tech enthusiast, always keeping an eye on the latest tech trends, deployment workflows, and open-source ecosystems[cite: 2].
 
 ---
 
@@ -20,7 +19,9 @@ I’m a passionate **Front-end Developer** who loves building high-performance w
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-008080?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
 ---
