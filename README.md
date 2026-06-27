@@ -6,8 +6,6 @@ I’m a passionate **Front-end Developer** and edge-tech enthusiast who loves tu
 
 ### 🤝 Represented by MintPlus AB
 
-<img src="https://mintplus.nu/wp-content/uploads/2023/11/Group-2.svg" alt="MintPlus Logo" width="180" />
-
 I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes on full-scale development projects and entirely handles the complete IT and technical needs of modern startups. 
 
 ---
