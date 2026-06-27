@@ -4,6 +4,13 @@ I’m a passionate **Front-end Developer** who loves building high-performance w
 
 ---
 
+### 🤝 Proudly Represented by MintPlus AB
+I am currently working under the banner of **MintPlus AB**, a professional B2B IT & Career Support services platform based in Sweden[cite: 2]. MintPlus bridges the gap between driven developers and modern tech companies, providing the infrastructure, template frameworks, and talent matchmaking to help scale innovative projects[cite: 2]. 
+
+If you are a recruiter looking to collaborate or discuss opportunities, you can connect with me directly or get in touch with my talent representative below[cite: 2]!
+
+---
+
 ### 🚀 What I Do & What Excites Me
 * **Frontend Engineering:** I specialize in building fast, scalable user interfaces using the React and Next.js ecosystems[cite: 2]. 
 * **AI-Assisted Development:** I am highly passionate about using AI tools to supercharge my development workflow, optimize build speeds, and write smarter code[cite: 2].
@@ -66,7 +73,16 @@ Here are some of the platforms I've built or am currently actively developing[ci
 ---
 
 ### 📫 Let's Connect!
+
+#### 🙋‍♂️ Direct Contact:
 * **LinkedIn:** [linkedin.com/in/ali-sheikhbahaie](https://linkedin.com/in/ali-sheikhbahaie/)[cite: 2]
 * **Email:** [ali.sheikhbahaie84@gmail.com](mailto:ali.sheikhbahaie84@gmail.com)[cite: 2]
+
+#### 💼 Recruiter & Talent Support (MintPlus AB):
+* **Contact Person:** Hamed Bagherifar[cite: 2]
+* **Phone:** +46 762989850[cite: 2]
+* **Email:** [hamed.b@mintplus.nu](mailto:hamed.b@mintplus.nu)[cite: 2]
+* **Office Address:** Lilldalsvägen 40A, Rönninge[cite: 2]
+* **Website:** [www.mintplus.nu](https://mintplus.nu)[cite: 2]
 
 *“Always building, always learning, always automating.”* 🚀
