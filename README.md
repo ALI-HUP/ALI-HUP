@@ -64,4 +64,4 @@ I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes 
 **🙋‍♂️ Direct:** [LinkedIn](https://linkedin.com/in/ali-sheikhbahaie/) | [Resume / CV](https://docs.google.com/document/d/1Wfg7XhFHPcOFnevtATbobDZsfgVwAA5RRC18nyrWF4k/edit?usp=sharing) | [ali.sheikhbahaie84@gmail.com](mailto:ali.sheikhbahaie84@gmail.com)  
 **💼 Talent Support:** Hamed Bagherifar ([hamed.b@mintplus.nu](mailto:hamed.b@mintplus.nu)) | [www.mintplus.nu](https://mintplus.nu)
 
-*“Always building, always learning, always automating.”* 🚀
+*“Always building, always learning, always growing.”* 🚀
