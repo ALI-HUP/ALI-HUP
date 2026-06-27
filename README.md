@@ -20,7 +20,6 @@ I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes 
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="MUI" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-008080?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
 </p>
 
 ---
