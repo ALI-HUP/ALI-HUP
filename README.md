@@ -1,23 +1,14 @@
 # Hi there, I'm Ali! 👋 ⚡
 
-I’m a passionate **Front-end Developer** who loves building high-performance web applications, playing with cutting-edge tech, and pushing the boundaries of what's possible on the web. I don't just write code; I love turning creative ideas into functional, pixel-perfect products.
+I’m a passionate **Front-end Developer** and edge-tech enthusiast who loves turning creative ideas into scalable, pixel-perfect products. I specialize in the React/Next.js ecosystem and am highly driven by using AI tools to supercharge my development workflows and optimize performance.
 
 ---
 
-### 🤝 Proudly Represented by MintPlus AB
+### 🤝 Represented by MintPlus AB
 
-I am currently working under the banner of **MintPlus AB**, a comprehensive B2B IT & Career Support services platform based in Sweden. 
+<img src="https://mintplus.nu/wp-content/uploads/2023/11/Group-2.svg" alt="MintPlus Logo" width="180" />
 
-MintPlus is more than just a talent network—they are an end-to-end IT partner that takes on full development projects and entirely handles the complete IT needs of modern startups. From architectural design to scaling software solutions, MintPlus bridges the gap between driven developers like me and businesses looking for robust, production-ready systems.
-
-If you are looking to collaborate, build a product from scratch, or discuss software opportunities, you can connect with me directly or get in touch with my talent representative below!
-
----
-
-### 🚀 What I Do & What Excites Me
-* **Frontend Engineering:** I specialize in building fast, scalable user interfaces using the React and Next.js ecosystems. 
-* **AI-Assisted Development:** I am highly passionate about using AI tools to supercharge my development workflow, optimize build speeds, and write smarter code.
-* **Tech Enthusiast:** I consider myself a Web3 explorer and an edge-tech enthusiast, always keeping an eye on the latest tech trends, deployment workflows, and open-source ecosystems.
+I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes on full-scale development projects and entirely handles the complete IT and technical needs of modern startups. 
 
 ---
 
@@ -38,31 +29,23 @@ If you are looking to collaborate, build a product from scratch, or discuss soft
 
 ### 💻 Featured Projects & Live Work
 
-Here are some of the platforms I've built or am currently actively developing:
-
-*   **🏋️ Gymivo Platform (Active)**  
-    Building the entire frontend for an AI-powered fitness startup that helps coaches and athletes track workouts and analyze fitness data. Uses Next.js 16 and advanced styling.  
-    👉 [Check out Gymivo](https://gymivo-frontend.vercel.app)
+*   **🏋️ Gymivo Platform (Active)** — Building the entire frontend for an AI-powered fitness tracking startup using Next.js 16.  
+    👉 [Visit Gymivo](https://gymivo-frontend.vercel.app)
     
-*   **🚚 Modir Tarabar**  
-    Built a massive logistics & order management front-end from scratch, featuring dynamic data tables, driver assignments, and a custom step-by-step order tracker.  
-    👉 [Check out Modir Tarabar](https://modir-tarabar.ir)
+*   **🚚 Modir Tarabar** — Developed a massive B2B logistics dashboard from scratch with RBAC and step-by-step order tracking.  
+    👉 [Visit Modir Tarabar](https://modir-tarabar.ir)
 
-*   **🛡️ ZTahrim**  
-    Designed and developed a complete network & DNS service website from scratch—built the UI/UX and a full custom design system to help users bypass network sanctions.  
-    👉 [Check out ZTahrim](https://ztahrim.ir)
+*   **🛡️ ZTahrim** — Designed and coded a complete network/DNS tool from scratch to help users bypass network sanctions.  
+    👉 [Visit ZTahrim](https://ztahrim.ir)
 
-*   **🛍️ Kouman Merch Store**  
-    Independently designed and developed a comprehensive e-commerce merch store concept tailored for a popular YouTube channel.  
-    👉 [Check out Kouman Store](https://kouman.vercel.app)
+*   **🛍️ Kouman Merch Store** — An independent, full-scale e-commerce merch store concept customized for a top YouTube brand.  
+    👉 [Visit Kouman Store](https://kouman.vercel.app)
 
-*   **📸 PicUp Platform**  
-    A dedicated media sharing platform built for professional photographers to seamlessly upload and showcase high-resolution imagery.  
-    👉 [Check out PicUp](https://pic-up-website.vercel.app)
+*   **📸 PicUp Platform** — A high-performance media sharing platform built for professional photographers to showcase imagery.  
+    👉 [Visit PicUp](https://pic-up-website.vercel.app)
 
-*   **🎬 Dinload Streaming**  
-    Developed a user-friendly movie and TV series architecture featuring clean UI structures for media streaming and sharing.  
-    👉 [Check out Dinload](https://dinload.vercel.app)
+*   **🎬 Dinload Streaming** — A user-friendly movie and TV streaming web architecture featuring clean UI structures.  
+    👉 [Visit Dinload](https://dinload.vercel.app)
 
 ---
 
@@ -77,15 +60,7 @@ Here are some of the platforms I've built or am currently actively developing:
 
 ### 📫 Let's Connect!
 
-#### 🙋‍♂️ Direct Contact:
-* **LinkedIn:** [linkedin.com/in/ali-sheikhbahaie](https://linkedin.com/in/ali-sheikhbahaie/)
-* **Email:** [ali.sheikhbahaie84@gmail.com](mailto:ali.sheikhbahaie84@gmail.com)
-
-#### 💼 Recruiter & Talent Support (MintPlus AB):
-* **Contact Person:** Hamed Bagherifar
-* **Phone:** +46 762989850
-* **Email:** [hamed.b@mintplus.nu](mailto:hamed.b@mintplus.nu)
-* **Office Address:** Lilldalsvägen 40A, Rönninge
-* **Website:** [www.mintplus.nu](https://mintplus.nu)
+**🙋‍♂️ Direct:** [LinkedIn](https://linkedin.com/in/ali-sheikhbahaie/) | [ali.sheikhbahaie84@gmail.com](mailto:ali.sheikhbahaie84@gmail.com)  
+**💼 Talent Support:** Hamed Bagherifar ([hamed.b@mintplus.nu](mailto:hamed.b@mintplus.nu)) | [www.mintplus.nu](https://mintplus.nu)
 
 *“Always building, always learning, always automating.”* 🚀
