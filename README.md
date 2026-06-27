@@ -1,6 +1,6 @@
-# Hi there, I'm Ali! 👋 ⚡
+# Hi there, I'm Ali! 👋
 
-I’m a passionate **Front-end Developer** and edge-tech enthusiast who loves turning creative ideas into scalable, pixel-perfect products. I specialize in the React/Next.js ecosystem and am highly driven by using AI tools to supercharge my development workflows and optimize performance.
+⚡ I’m a passionate **Front-end Developer** and edge-tech enthusiast who loves turning creative ideas into scalable, pixel-perfect products. I specialize in the React/Next.js ecosystem and am highly driven by using AI tools to supercharge my development workflows and optimize performance.
 
 ---
 
