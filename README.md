@@ -55,8 +55,11 @@ I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes 
 
 ---
 
+---
+
 ### 📫 Let's Connect!
 
+**📄 Resume:** **[Download My CV](./Ali's%20CV3_2.pdf)**  
 **🙋‍♂️ Direct:** [LinkedIn](https://linkedin.com/in/ali-sheikhbahaie/) | [ali.sheikhbahaie84@gmail.com](mailto:ali.sheikhbahaie84@gmail.com)  
 **💼 Talent Support:** Hamed Bagherifar ([hamed.b@mintplus.nu](mailto:hamed.b@mintplus.nu)) | [www.mintplus.nu](https://mintplus.nu)
 
