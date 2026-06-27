@@ -41,9 +41,6 @@ I work under the banner of **MintPlus AB**, a Swedish B2B IT partner that takes 
 *   **📸 PicUp Platform** — A high-performance media sharing platform built for professional photographers to showcase imagery.  
     👉 [Visit PicUp](https://pic-up-website.vercel.app)
 
-*   **🎬 Dinload Streaming** — A user-friendly movie and TV streaming web architecture featuring clean UI structures.  
-    👉 [Visit Dinload](https://dinload.vercel.app)
-
 ---
 
 ### 🔥 GitHub Stats & Activity
