@@ -1,6 +1,6 @@
 # Hi there, I'm Ali! 👋 ⚡
 
-I’m a passionate **Front-end Developer** who loves building high-performance web applications, playing with cutting-edge tech, and pushing the boundaries of what's possible on the web[cite: 2]. I don't just write code; I love turning creative ideas into functional, pixel-perfect products[cite: 2].
+I’m a passionate **Front-end Developer** who loves building high-performance web applications, playing with cutting-edge tech, and pushing the boundaries of what's possible on the web. I don't just write code; I love turning creative ideas into functional, pixel-perfect products.
 
 ---
 
