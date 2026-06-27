@@ -6,8 +6,6 @@ I’m a passionate **Front-end Developer** who loves building high-performance w
 
 ### 🤝 Proudly Represented by MintPlus AB
 
-<img src="https://mintplus.nu/wp-content/uploads/2023/11/Group-2.svg" alt="MintPlus Logo" width="240" />
-
 I am currently working under the banner of **MintPlus AB**, a comprehensive B2B IT & Career Support services platform based in Sweden. 
 
 MintPlus is more than just a talent network—they are an end-to-end IT partner that takes on full development projects and entirely handles the complete IT needs of modern startups. From architectural design to scaling software solutions, MintPlus bridges the gap between driven developers like me and businesses looking for robust, production-ready systems.
